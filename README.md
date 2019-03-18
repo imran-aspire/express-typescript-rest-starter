@@ -11,7 +11,6 @@ It's a nodejs Express REST API server starter with typescript
 
 [NodeJS](https://nodejs.org/en/)
 
-Install global TypeScript and TypeScript Node
 
 [Yarn](https://yarnpkg.com/en/)
 Yarn is what we use to manage API server dependencies, so we're going to need that. You can install it using Homebrew (or any of the other methods mentioned in [the install docs](https://yarnpkg.com/lang/en/docs/install/)):
