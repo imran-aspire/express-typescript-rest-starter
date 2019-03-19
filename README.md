@@ -26,7 +26,7 @@ After that, you will have to replace the mongoURL with your MongoDB address in *
 ## Clone this repository
 
 ```
-git clone git@github.com:imran-aspire/express-typescript-rest-starter.git
+git clone git@github.com:imranur8/express-typescript-rest-starter.git
 ```
 
 Then install the dependencies
